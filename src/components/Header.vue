@@ -12,13 +12,11 @@
   </div>
 </template>
 
-<script>
-</script>
-
 <style scoped>
 .header {
   display: flex;
   background-color: #5de1e6;
+  justify-content: center;
 }
 .logo img {
   width: 200px;
@@ -30,6 +28,7 @@
   list-style-type: none;
   display: flex;
   justify-content: space-evenly;
+  font-family: sans-serif;
 }
 .menu ul li {
   padding-top: 25px;
