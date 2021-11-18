@@ -1,18 +1,34 @@
 <template>
-  <div class="Section1">
-    <h1>High Quality French Bulldog Puppies for Sale</h1>
-    <div class="description">
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam voluptate
-        blanditiis in consequuntur ea odit cum at. Dolore repellendus quisquam
-        ab nemo, ad illo dolor. Repellat sit perspiciatis quaerat obcaecati?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam voluptate
-        blanditiis in consequuntur ea odit cum at. Dolore repellendus quisquam
-        ab nemo, ad illo dolor. Repellat sit perspiciatis quaerat obcaecati?
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam voluptate
-        blanditiis in consequuntur ea odit cum at. Dolore repellendus quisquam
-        ab nemo, ad illo dolor. Repellat sit perspiciatis quaerat obcaecati?
-      </p>
+  <div>
+    <div class="Section1">
+      <h1>High Quality French Bulldog Puppies for Sale</h1>
+      <div class="description">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
+          voluptate blanditiis in consequuntur ea odit cum at. Dolore
+          repellendus quisquam ab nemo, ad illo dolor. Repellat sit perspiciatis
+          quaerat obcaecati? Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Ipsam voluptate blanditiis in consequuntur ea odit cum at.
+          Dolore repellendus quisquam ab nemo, ad illo dolor. Repellat sit
+          perspiciatis quaerat obcaecati? Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Ipsam voluptate blanditiis in consequuntur ea odit
+          cum at. Dolore repellendus quisquam ab nemo, ad illo dolor. Repellat
+          sit perspiciatis quaerat obcaecati?
+        </p>
+      </div>
+    </div>
+    <div class="Section2">
+      <div class="container">
+        <div class="textbox">
+          <div class="inner-text">hshshsh</div>
+        </div>
+        <div class="image">
+          <img
+            src="https://ethicalfrenchie.com/uploads/earlysocialization.jpg"
+            alt=""
+          />
+        </div>
+      </div>
     </div>
   </div>
 </template>
@@ -25,7 +41,43 @@ h1 {
   text-align: center;
 }
 .Section1 .description {
-  width: 600px;
+  margin-left: 4%;
+  margin-right: 4%;
+  background: #fff;
+  color: #5c5e65;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 8%);
+  padding: 40px;
+}
+.Section2 {
+  /* display: flex;
+  justify-content: center; */
+  margin-left: 4%;
+  margin-right: 4%;
+  margin-top: 50px;
+}
+.Section2 .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #901941;
+}
+.Section2 .textbox {
+  width: 50%;
+  background: #901941;
+  color: #fff;
+  /* box-shadow: 0 5px 15px rgb(0 0 0 / 8%); */
   text-align: center;
+}
+.Section2 .inner-text {
+  padding: 70px;
+}
+.Section2 .image {
+  width: 50%;
+  box-sizing: border-box;
+}
+.Section2 .image img {
+  max-width: 100%;
+  height: auto;
+  box-sizing: border-box;
 }
 </style>
