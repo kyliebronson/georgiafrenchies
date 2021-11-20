@@ -20,7 +20,15 @@
     <div class="Section2">
       <div class="container">
         <div class="textbox">
-          <div class="inner-text">hshshsh</div>
+          <div class="inner-text">
+            <p>Early Puppy Socialization</p>
+            <p>
+              We go to great lengths to ensure each French Bulldog puppy is
+              ready for your family. Through proper socialization puppies are
+              less prone to transitional shock are more prepared to become
+              stable adults.
+            </p>
+          </div>
         </div>
         <div class="image">
           <img
@@ -79,5 +87,8 @@ h1 {
   max-width: 100%;
   height: auto;
   box-sizing: border-box;
+}
+.inner-text p {
+  font-size: 20px;
 }
 </style>
