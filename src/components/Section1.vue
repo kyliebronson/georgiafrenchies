@@ -21,7 +21,7 @@
       <div class="container">
         <div class="textbox">
           <div class="inner-text">
-            <p>Early Puppy Socialization</p>
+            <p1>Early Puppy Socialization</p1>
             <p>
               We go to great lengths to ensure each French Bulldog puppy is
               ready for your family. Through proper socialization puppies are
@@ -89,6 +89,14 @@ h1 {
   box-sizing: border-box;
 }
 .inner-text p {
-  font-size: 20px;
+  font-size: 18px;
+  color: #dcdcdc;
+  text-align: left;
+  font-family: Arial, Sans-serif;
+  letter-spacing: 2px;
+}
+.inner-text p1 {
+  font-size: 35px;
+  font-family: Arial, sans-serif;
 }
 </style>
