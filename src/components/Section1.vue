@@ -89,14 +89,14 @@ h1 {
   box-sizing: border-box;
 }
 .inner-text p {
-  font-size: 18px;
+  font-size: 16.5px;
   color: #dcdcdc;
   text-align: left;
-  font-family: Arial, Sans-serif;
+  font-family: Montserrat-Regular;
   letter-spacing: 2px;
 }
 .inner-text p1 {
-  font-size: 35px;
-  font-family: Arial, sans-serif;
+  font-size: 30px;
+  font-family: Montserrat-Regular;
 }
 </style>
