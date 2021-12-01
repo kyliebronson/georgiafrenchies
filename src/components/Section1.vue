@@ -28,6 +28,9 @@
               less prone to transitional shock are more prepared to become
               stable adults.
             </p>
+            <div class="brdbtn">
+              <p2>About Us</p2>
+            </div>
           </div>
         </div>
         <div class="image">
@@ -89,14 +92,18 @@ h1 {
   box-sizing: border-box;
 }
 .inner-text p {
-  font-size: 16.5px;
+  font-size: 15.5px;
   color: #dcdcdc;
   text-align: left;
   font-family: Montserrat-Regular;
   letter-spacing: 2px;
 }
 .inner-text p1 {
-  font-size: 30px;
+  font-size: 28px;
+  font-family: Montserrat-Regular;
+}
+.brdbtn p2 {
+  font-size: 15px;
   font-family: Montserrat-Regular;
 }
 </style>

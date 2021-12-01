@@ -10,6 +10,9 @@
               preparation and health testing before producing a litter. To read
               more about where our french bulldogs come from..
             </p>
+            <div class="brdbtn">
+              <p2>Learn More</p2>
+            </div>
           </div>
         </div>
         <div class="image">
@@ -65,14 +68,18 @@
   box-sizing: border-box;
 }
 .inner-text2 p {
-  font-size: 16.5px;
+  font-size: 15.5px;
   color: #dcdcdc;
   text-align: left;
   font-family: Montserrat-Regular;
   letter-spacing: 2px;
 }
 .inner-text2 p1 {
-  font-size: 30px;
+  font-size: 28px;
+  font-family: Montserrat-Regular;
+}
+.brdbtn p2 {
+  font-size: 15px;
   font-family: Montserrat-Regular;
 }
 </style>

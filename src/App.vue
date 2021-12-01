@@ -35,4 +35,11 @@ body {
   font-family: Montserrat-Regular;
   src: url("./fonts/Montserrat-Regular.woff") format("woff");
 }
+.brdbtn {
+  border: 1px solid white;
+  padding: 9px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 88px;
+}
 </style>

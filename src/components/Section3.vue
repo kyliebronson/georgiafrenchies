@@ -11,6 +11,9 @@
               read a few articles from our blog, which we update regularly to
               make sure you’re informed before the big decision.
             </p>
+            <div class="brdbtn">
+              <p2>Our Blog</p2>
+            </div>
           </div>
         </div>
         <div class="image">
@@ -66,14 +69,18 @@
   box-sizing: border-box;
 }
 .inner-text3 p {
-  font-size: 16.5px;
+  font-size: 15.5px;
   color: #dcdcdc;
   text-align: left;
   font-family: Montserrat-Regular;
   letter-spacing: 2px;
 }
 .inner-text3 p1 {
-  font-size: 30px;
+  font-size: 28px;
+  font-family: Montserrat-Regular;
+}
+.brdbtn p2 {
+  font-size: 15px;
   font-family: Montserrat-Regular;
 }
 </style>
