@@ -41,6 +41,9 @@
         </div>
       </div>
     </div>
+    <div class="Section1.5">
+      <h1>Anyone can "Add a Frenchie to Cart"...</h1>
+    </div>
   </div>
 </template>
 
