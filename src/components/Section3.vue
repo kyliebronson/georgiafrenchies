@@ -24,6 +24,17 @@
         </div>
       </div>
     </div>
+    <div class="Section5">
+      <h1>Anyone can "Add a Frenchie to Cart"...</h1>
+      <div class="description">
+        <p>
+          You’ll learn more about Blue French Bulldogs and the various french
+          bulldog puppies for sale from us than anywhere else, as we pride
+          ourselves on Education. In fact before making your decision to bring
+          home a french bulldog puppy, we ensure that you are well prepared.
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -80,6 +91,22 @@
   font-family: Montserrat-Regular;
 }
 .brdbtn p2 {
+  font-size: 15px;
+  font-family: Montserrat-Regular;
+}
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: 350;
+  text-align: center;
+}
+.Section5 .description {
+  margin-left: 4%;
+  margin-right: 4%;
+  background: #fff;
+  color: #5c5e65;
+  box-shadow: 0 5px 15px rgb(0 0 0 / 8%);
+  padding: 40px;
   font-size: 15px;
   font-family: Montserrat-Regular;
 }

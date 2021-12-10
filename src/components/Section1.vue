@@ -41,9 +41,6 @@
         </div>
       </div>
     </div>
-    <div class="Section1.5">
-      <h1>Anyone can "Add a Frenchie to Cart"...</h1>
-    </div>
   </div>
 </template>
 
@@ -61,6 +58,8 @@ h1 {
   color: #5c5e65;
   box-shadow: 0 5px 15px rgb(0 0 0 / 8%);
   padding: 40px;
+  font-size: 15px;
+  font-family: Montserrat-Regular;
 }
 .Section2 {
   /* display: flex;
