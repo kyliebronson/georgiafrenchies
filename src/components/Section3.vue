@@ -33,6 +33,9 @@
           ourselves on Education. In fact before making your decision to bring
           home a french bulldog puppy, we ensure that you are well prepared.
         </p>
+        <div class="brdbtn1">
+          <p3>View our Puppies</p3>
+        </div>
       </div>
     </div>
   </div>
@@ -109,5 +112,16 @@ h1 {
   padding: 40px;
   font-size: 15px;
   font-family: Montserrat-Regular;
+}
+.brdbtn1 p3 {
+  font-size: 12px;
+  font-family: Montserrat-Regular;
+}
+.brdbtn1 {
+  border: 1px solid black;
+  padding: 9px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 88px;
 }
 </style>
