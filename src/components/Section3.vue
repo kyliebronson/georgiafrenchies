@@ -38,6 +38,26 @@
         </div>
       </div>
     </div>
+    <div class="title">
+      <h1>Quick #FACTS</h1>
+    </div>
+    <div class="accordian">
+      <vsa-list>
+        <!-- Here you can use v-for to loop through items  -->
+        <vsa-item>
+          <vsa-heading> How much do French Bulldogs cost? </vsa-heading>
+          <vsa-content> This is the content </vsa-content>
+        </vsa-item>
+        <vsa-item>
+          <vsa-heading> What is the process? </vsa-heading>
+          <vsa-content> This is the content </vsa-content>
+        </vsa-item>
+        <vsa-item>
+          <vsa-heading> Who are the breeders? </vsa-heading>
+          <vsa-content> This is the content </vsa-content>
+        </vsa-item>
+      </vsa-list>
+    </div>
   </div>
 </template>
 
@@ -123,5 +143,13 @@ h1 {
   padding-left: 20px;
   padding-right: 20px;
   width: 88px;
+}
+.accordian {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+.vsa-list {
+  --vsa-highlight-color: #5de1e6;
 }
 </style>
